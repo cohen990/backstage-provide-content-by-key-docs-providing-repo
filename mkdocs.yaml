@@ -1,0 +1,9 @@
+site_name: 'spikey-api'
+repo_url: https://github.com/cohen990/backstage-kroki-spike-doc-providing-repo
+plugins:
+  - techdocs-core
+
+nav:
+  - 'General':
+      - 'md file': some-markdown.md
+      - 'architecture diagram': by-key

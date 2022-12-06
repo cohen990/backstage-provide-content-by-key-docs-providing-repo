@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: spikey-api
+  description: Generally a spike
+  tags:
+    - docs
+  annotations:
+    backstage.io/source-location: url:https://github.com/cohen990/backstage-kroki-spike-doc-providing-repo
+    backstage.io/techdocs-ref: url:https://github.com/cohen990/backstage-kroki-spike-doc-providing-repo
+spec:
+  type: techdocs
+  owner: sammie-cohen
+  lifecycle: production
